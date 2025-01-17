@@ -1,2 +1,2 @@
 # xox
-A JavaScript project
+A JavaScript project, best one in the world!
