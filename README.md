@@ -1,2 +1,2 @@
 # xox
-A JavaScript project, best one in the world!
+A JavaScript project that looks like a Tic Tac Toe game
