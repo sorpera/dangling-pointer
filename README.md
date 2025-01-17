@@ -1,2 +1,2 @@
-# dangling-pointer
-Some random repo for learning purposes
+# xox
+A JavaScript project
