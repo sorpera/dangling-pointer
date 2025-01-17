@@ -68,3 +68,6 @@ dist
 
 # xox app dir
 xox
+
+# npm package lock file
+package-lock.json
